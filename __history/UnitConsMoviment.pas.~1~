@@ -1,0 +1,24 @@
+unit UnitConsMoviment;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  TFormConsMoviment = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormConsMoviment: TFormConsMoviment;
+
+implementation
+
+{$R *.dfm}
+
+end.

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/01 21:09:02.000.557,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 19:33:42.000.468,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 19:39:06.000.832,C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitPrincipal.pas</Transaction>
+    <Transaction>2024/07/09 19:39:06.000.832,C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitPrincipal.dfm</Transaction>
+    <Transaction>2024/07/09 19:39:17.000.348,C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Estoque.dproj</Transaction>
+    <Transaction>2024/07/09 19:40:46.000.710,=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 21:40:46.000.160,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitCadProd.dfm</Transaction>
+    <Transaction>2024/07/09 21:40:46.000.160,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitCadProd.pas</Transaction>
+    <Transaction>2024/07/09 21:41:06.000.144,=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 21:41:28.000.210,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitCadMoviment.dfm</Transaction>
+    <Transaction>2024/07/09 21:41:28.000.210,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitCadMoviment.pas</Transaction>
+    <Transaction>2024/07/09 21:43:12.000.835,=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 21:44:05.000.238,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitConsMoviment.dfm</Transaction>
+    <Transaction>2024/07/09 21:44:05.000.238,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitConsMoviment.pas</Transaction>
+    <Transaction>2024/07/09 21:44:32.000.442,=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas</Transaction>
+    <Transaction>2024/07/09 21:45:06.000.277,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitDM.dfm</Transaction>
+    <Transaction>2024/07/09 21:45:06.000.277,C:\Users\royok\OneDrive\Área de Trabalho\Estoque\Unit1.pas=C:\Users\royok\OneDrive\Área de Trabalho\Estoque\UnitDM.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitCadMoviment.pas"/>
+    <File Path="UnitCadMoviment.dfm"/>
+    <File Path="UnitCadProd.pas"/>
+    <File Path="UnitCadProd.dfm"/>
+    <File Path="UnitPrincipal.pas"/>
+    <File Path="UnitPrincipal.dfm"/>
+    <File Path="UnitDM.pas"/>
+    <File Path="UnitDM.dfm"/>
+    <File Path="UnitConsMoviment.pas"/>
+    <File Path="UnitConsMoviment.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
